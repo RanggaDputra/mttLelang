@@ -7,7 +7,7 @@
 * [Author](#author)
 
 ## Description
-Auksien Online merupakan aplikasi sederhana lelang online. mirip seperti lelang pada umumnya, namun lebih praktis karena dilakukan secara virtual melalui aplikasi kami secara online. dibuat menggunakan HTML, PHP, JQUERY, serta database menggunakan MySql
+Shin Online merupakan aplikasi sederhana lelang online. mirip seperti lelang pada umumnya, namun lebih praktis karena dilakukan secara virtual melalui aplikasi kami secara online. dibuat menggunakan HTML, PHP, JQUERY, serta database menggunakan MySql
 
 ## Feature
 Aplikasi Auksien Online mempunyai beberapa fitur yaitu :
@@ -36,26 +36,14 @@ Langkah - langkah menginstall aplikasi AuksienOnline :
 List Akun dan Pass :
 ```
 1. 
-username: yusfian
-pass 	:yusfian
+username: shin
+pass 	:123
 
-2. 
-username: ger
-pass 	:gerz
-
-3. 
-username: rizky
-pass 	: 123
-
-4.
-username: roby
-pass 	: roby
-```
 
 ## License
 MIT License
 
-Copyright (c) 2020 AuksienTeam
+Copyright (c) 2020 ShinCorp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -76,4 +64,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author
-AuksienTeam.
+ShinCorp
